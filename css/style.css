@@ -1,0 +1,36 @@
+/* Stylesheet for Check In! */
+
+div#btn-container{
+   
+  margin-top:5%;
+  
+}
+div#title{
+
+  position:relative;top:0;left:0;background:purple;color:white;
+}
+div#googleMap{
+  
+  background:red;
+}
+div.mainApp{
+  
+  margin-top:5%;width:98%;
+}
+div#prevList ul{
+  
+  list-style-type:none;
+
+}
+div#prevList ul li{
+
+  padding:0.6em 0.8em;border-bottom:1px solid RGB(128,128,128);
+}
+div#prevList ul li:hover{
+
+  padding:0.6em 0.8em;border-bottom:1px solid RGB(128,128,128);background:RGB(230,230,230);
+}
+div#commentDisplay{
+
+  margin-top:5%;
+}
